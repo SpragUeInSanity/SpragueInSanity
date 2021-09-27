@@ -1,0 +1,15 @@
+{
+    "turnOnSnow": true,
+    "startPosition": {
+        "x": 550.0,
+        "y": -6.699999809265137,
+        "z": 600.0
+    },
+    "width": 150.0,
+    "depth": 150.0,
+    "farOffSnowCoverage": 0.24320168793201447,
+    "treeSnowAmount": 0.15299999713897706,
+    "snowObjectsFile": "/SnowObjects.json",
+    "snowShader": "Shader Graphs/SnowToppedObjects",
+    "defaultTreeShader": "Universal Render Pipeline/Nature/SpeedTree7"
+}
